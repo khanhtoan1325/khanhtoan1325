@@ -1,29 +1,19 @@
-
----
-
-## 🎯 MẪU 6 – **Dạng Resume Dọc (Sidebar-style)**
-
-```markdown
 # Nguyễn Khánh Toàn
-**🎓 HUTECH - Information Systems**  
-📍 HCM City | 🛠️ Full-stack Developer  
-📫 toan.dev@example.com | 🌐 [Portfolio](https://khanhtoan.dev)
 
----
+📍 Location: Ho Chi Minh City, Vietnam  
+💼 Role: Developer | Information Systems Student  
+🎓 School: HUTECH – Class of 2025
 
-## 🧠 Skills
-- 💻 Languages: Python, Dart, JavaScript, C#
-- 🔧 Frameworks: React Native, Flutter, Node.js, Firebase
-- 🗃️ Databases: MySQL, Firebase, MongoDB (basic)
+## 🧰 Stack
 
----
+| Mobile       | Backend        | Database     | Other Tools  |
+|--------------|----------------|--------------|--------------|
+| React Native | Node.js        | MySQL        | Git          |
+| Flutter      | Firebase       | Firestore    | Postman      |
 
 ## 🚀 Projects
-- 📱 Attendance App: GPS-based check-in system (React Native + Firebase)
-- 🧭 Safe Saigon: Safety alert app for tourists in HCMC
-- 🔐 ElGamal Tool: Python app for learning cryptography
+- ✅ Attendance Tracker (RN + Firebase)
+- 🔐 Safe Saigon App
+- 📡 ElGamal Crypto Python Tool
 
----
-
-## 📈 Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=khanhtoan123&show_icons=true&theme=graywhite)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khanhtoan123&layout=compact)
