@@ -24,6 +24,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 
 ---
 
@@ -31,7 +32,7 @@
 
 - ✅ **Remote Attendance App** – GPS-based check-in using React Native + Firebase  
 - 🔐 **Safe Saigon** – App to protect tourists in Ho Chi Minh City  
-- 📡 **ElGamal Crypto CLI** – Encryption demo using Python
+- 📡 **Identifying violent acts** – Demo using python
 
 ---
 
@@ -39,7 +40,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=khanhtoan123&show_icons=true&theme=radical&hide=contribs&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanhtoan123&layout=compact&langs_count=8&theme=radical" height="150"/>
 </p>
 
 ---
@@ -47,8 +47,7 @@
 ## ✉️ Contact Me
 
 <p align="center">
-  <a href="mailto:toan.dev@example.com"><img src="https://img.shields.io/badge/-toan.dev@example.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/khanhtoan"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:nguyenkhanhtoan1325@gmail.com"><img src="https://img.shields.io/badge/-nguyenkhanhtoan-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
 ---
