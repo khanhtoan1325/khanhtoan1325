@@ -1,15 +1,14 @@
-### Hi there 👋
+### Hello World! 🌎
 
-I'm Toan, a passionate developer from Vietnam 🇻🇳  
-- 🔭 I’m currently working on: Attendance App using React Native & Node.js  
-- 🌱 I’m currently learning: Flutter, Firebase, Docker  
-- 👯 I’m looking to collaborate on full-stack projects  
-- 📫 How to reach me: nguyenkhanhtoan1325@gmail.com
+I'm Khánh Toàn, a curious Computer Science student from 🇻🇳  
+💻 I enjoy coding apps that solve real problems  
+🍀 I believe in learning by doing
 
-### 🛠 Tech Stack:
-![React](https://img.shields.io/badge/React-black?logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js)
-![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql)
-...
+### 🧰 Toolbox
+- 👨‍💻 React Native, Flutter, Node.js
+- 🗄️ MySQL, Firebase
+- 🎨 Figma, Canva
 
-![Toan's GitHub stats](https://github-readme-stats.vercel.app/api?username=khanhtoan123&show_icons=true&theme=tokyonight)
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+
+📫 Email: toan.dev@example.com
