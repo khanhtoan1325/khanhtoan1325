@@ -1,11 +1,15 @@
-<h1 align="center">Hi 👋, I'm Toan</h1>
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+### Hi there 👋
 
-- 🧑‍💻 Student at HUTECH - Information Systems  
-- 🛠 Building a smart attendance system  
-- 🕹 I like gaming and exploring tech
+I'm Toan, a passionate developer from Vietnam 🇻🇳  
+- 🔭 I’m currently working on: Attendance App using React Native & Node.js  
+- 🌱 I’m currently learning: Flutter, Firebase, Docker  
+- 👯 I’m looking to collaborate on full-stack projects  
+- 📫 How to reach me: toan.dev@example.com
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanhtoan123&layout=compact" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khanhtoan123" />
-</p>
+### 🛠 Tech Stack:
+![React](https://img.shields.io/badge/React-black?logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js)
+![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql)
+...
+
+![Toan's GitHub stats](https://github-readme-stats.vercel.app/api?username=khanhtoan123&show_icons=true&theme=tokyonight)
