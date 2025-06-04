@@ -1,27 +1,22 @@
-<h1 align="center">🚀 Hello, I'm Toàn 👨‍💻</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full-stack+Developer;React+Native+Enthusiast;Loves+Clean+Code;Firebase+|+MySQL+|+Node.js&center=true&width=440&height=45">
-</p>
+## 👨‍💻 About Me
 
-### 📬 Connect with me
+- 🚀 Final-year student at HUTECH, majoring in **Information Systems**  
+- 🛠️ Strong in full-stack development: React Native, Express.js, Firebase, MySQL  
+- 📌 Working on remote **Time Tracking App** with real GPS check-in/out  
+- 📚 Always learning: Clean architecture, scalable backend, DevOps basics
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/khanhtoan123)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:toan.dev@example.com)
+## 🧰 Languages & Tools
 
-### 🧑‍💻 My Dev Setup
+![React Native](https://img.shields.io/badge/-React%20Native-20232A?logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white)
 
-![VS Code](https://img.shields.io/badge/Editor-VS%20Code-blue?logo=visual-studio-code)
-![Git](https://img.shields.io/badge/Version%20Control-Git-orange?logo=git)
-![Windows](https://img.shields.io/badge/OS-Windows-blue?logo=windows)
+## 🔍 Featured Projects
 
-### 💼 Projects Showcase
+- 🎯 [Smart Attendance App](https://github.com/khanhtoan123/attendance-app)
+- 🧭 [Safe Saigon (Tourist Safety App)](https://github.com/khanhtoan123/safe-saigon)
+- 🔐 [ElGamal Crypto Tool (Python)](https://github.com/khanhtoan123/elgamal-crypto)
 
-📱 **Attendance App** – React Native | GPS | Firebase  
-🌐 **Safe Saigon** – Tourist protection + data reporting  
-🔐 **ElGamal Encryption** – Simple security demo in Python
-
----
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=khanhtoan123&theme=radical&hide_border=true"/>
-</p>
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
