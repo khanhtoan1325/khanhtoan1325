@@ -6,6 +6,5 @@
 - 🕹 I like gaming and exploring tech
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanhtoan123&layout=compact" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=khanhtoan123" />
 </p>
