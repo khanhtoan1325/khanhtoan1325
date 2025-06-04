@@ -6,8 +6,8 @@
 | React Native, Flutter | Git, Postman, Figma | Firebase Integration |
 | Node.js, Express | MySQL, Firestore | CI/CD Basics |
 
-📫 Email: toan.dev@example.com  
-🌐 Portfolio: [khanhtoan.dev](https://khanhtoan.dev)
+📫 Email: nguyenkhanhtoan1325@gmail.com  
+🌐 Portfolio:
 
 ---
 
