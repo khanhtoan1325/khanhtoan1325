@@ -47,11 +47,20 @@
 ## ✉️ Contact Me
 
 <p align="center">
-  <a href="mailto:nguyenkhanhtoan1325@gmail.com"><img src="https://img.shields.io/badge/-nguyenkhanhtoan-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:nguyenkhanhtoan1325@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/NGUYENKHANHTOAN1325" target="_blank">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/nk.toan393/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
+  </a>
 </p>
+
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Gif">
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="300" alt="Mã hóa dữ liệu với hiệu ứng glitch">
 </p>
