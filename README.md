@@ -1,19 +1,12 @@
-# Nguyễn Khánh Toàn
-
-📍 Location: Ho Chi Minh City, Vietnam  
-💼 Role: Developer | Information Systems Student  
-🎓 School: HUTECH – Class of 2025
-
-## 🧰 Stack
-
-| Mobile       | Backend        | Database     | Other Tools  |
-|--------------|----------------|--------------|--------------|
-| React Native | Node.js        | MySQL        | Git          |
-| Flutter      | Firebase       | Firestore    | Postman      |
-
-## 🚀 Projects
-- ✅ Attendance Tracker (RN + Firebase)
-- 🔐 Safe Saigon App
-- 📡 ElGamal Crypto Python Tool
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khanhtoan123&layout=compact)
+const aboutMe = {
+  name: "Nguyễn Khánh Toàn",
+  role: "Full-stack Developer",
+  location: "Ho Chi Minh City",
+  education: "HUTECH, Information Systems",
+  techStack: ["React Native", "Node.js", "Flutter", "MySQL", "Firebase"],
+  currentProject: "Remote Attendance App",
+  contact: {
+    email: "toan.dev@example.com",
+    portfolio: "https://khanhtoan.dev"
+  }
+};
