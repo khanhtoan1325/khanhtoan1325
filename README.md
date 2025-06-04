@@ -1,22 +1,19 @@
-## 👨‍💻 About Me
+<h1 align="center">Hi 👋, I'm Nguyễn Khánh Toàn</h1>
+<h3 align="center">Full-stack Developer | React Native • Node.js • MySQL</h3>
 
-- 🚀 Final-year student at HUTECH, majoring in **Information Systems**  
-- 🛠️ Strong in full-stack development: React Native, Express.js, Firebase, MySQL  
-- 📌 Working on remote **Time Tracking App** with real GPS check-in/out  
-- 📚 Always learning: Clean architecture, scalable backend, DevOps basics
+- 🔭 I’m currently working on: **Attendance App** & **Safe Saigon Project**
+- 🌱 I’m currently learning: **Flutter & Firebase Advanced**
+- 👯 I’m looking to collaborate on: **Open Source Projects or Startups**
+- 📫 How to reach me: **nguyenkhanhtoan1325@gmail.com**
 
-## 🧰 Languages & Tools
+### 🛠️ Tech Stack
 
-![React Native](https://img.shields.io/badge/-React%20Native-20232A?logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
-![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white)
+`React Native` `Node.js` `MySQL` `Firebase`  
+`Flutter` `Python` `C# WinForms` `HTML` `CSS`  
 
-## 🔍 Featured Projects
+### 📈 GitHub Stats
 
-- 🎯 [Smart Attendance App](https://github.com/khanhtoan123/attendance-app)
-- 🧭 [Safe Saigon (Tourist Safety App)](https://github.com/khanhtoan123/safe-saigon)
-- 🔐 [ElGamal Crypto Tool (Python)](https://github.com/khanhtoan123/elgamal-crypto)
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khanhtoan123&show_icons=true&theme=gruvbox" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanhtoan123&layout=compact&theme=gruvbox" height="180"/>
+</p>
