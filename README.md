@@ -59,5 +59,5 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="300" alt="Mã hóa dữ liệu với hiệu ứng glitch">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDR5Y2NuMjlhaGpiejB1d2ExdHo4YWRwYTBsNnlydm5haHR4eTllMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbtJJPft2P7rcpbBdb/giphy.gif" width="300"/>
 </p>
