@@ -1,7 +1,4 @@
 <h1 align="center">Hi there 👋, I'm Nguyễn Khánh Toàn</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=440&lines=🚀+Full-stack+Developer;💻+React+Native+%2B+Flutter+Mobile+Apps;🔐+Node.js+%2B+Firebase+APIs;📍+Ho+Chi+Minh+City%2C+Vietnam" alt="Typing SVG" />
-</p>
 
 ---
 
