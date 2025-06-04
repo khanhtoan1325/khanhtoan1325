@@ -8,12 +8,11 @@
 
 ### 🛠️ Tech Stack
 
-`React Native` `Node.js` `MySQL` `Firebase`  
-`Flutter` `Python` `C# WinForms` `HTML` `CSS`  
+`React Native` `Node.js` `MySQL` `Firebase`  `Java`
+`Flutter` `Python` `C# WinForms` `HTML` `CSS` `JS`  
 
 ### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=khanhtoan123&show_icons=true&theme=gruvbox" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanhtoan123&layout=compact&theme=gruvbox" height="180"/>
 </p>
