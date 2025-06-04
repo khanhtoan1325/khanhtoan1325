@@ -1,26 +1,29 @@
-<h2 align="center">Hey there! 👋 I'm Toàn – a passionate mobile dev from Vietnam 🇻🇳</h2>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
-</p>
-
-- 🔭 I’m building: **Smart Attendance App**
-- 🌱 Learning: Flutter, DevOps, Firebase Cloud Functions
-- 💬 Ask me about: React Native, Node.js, MySQL
-- ⚡ Fun fact: I write better code after 1AM 🌙
 
 ---
 
-### 🛠️ Tools I Use
+## 🎯 MẪU 6 – **Dạng Resume Dọc (Sidebar-style)**
 
-![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?logo=firebase&logoColor=black)
+```markdown
+# Nguyễn Khánh Toàn
+**🎓 HUTECH - Information Systems**  
+📍 HCM City | 🛠️ Full-stack Developer  
+📫 toan.dev@example.com | 🌐 [Portfolio](https://khanhtoan.dev)
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khanhtoan123&show_icons=true&theme=highcontrast" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=khanhtoan123&theme=dark&hide_border=true" />
-</p>
+## 🧠 Skills
+- 💻 Languages: Python, Dart, JavaScript, C#
+- 🔧 Frameworks: React Native, Flutter, Node.js, Firebase
+- 🗃️ Databases: MySQL, Firebase, MongoDB (basic)
+
+---
+
+## 🚀 Projects
+- 📱 Attendance App: GPS-based check-in system (React Native + Firebase)
+- 🧭 Safe Saigon: Safety alert app for tourists in HCMC
+- 🔐 ElGamal Tool: Python app for learning cryptography
+
+---
+
+## 📈 Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=khanhtoan123&show_icons=true&theme=graywhite)
