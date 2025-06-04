@@ -1,53 +1,58 @@
- Nguyễn Khánh Toàn
-
-🎓 Student - Information Systems | HUTECH  
-💼 Aspiring Full-stack Developer | React Native | Node.js | Flutter  
-📍 Based in Ho Chi Minh City, Vietnam  
-
----
-
-## 💡 About Me
-
-I am a final-year student with hands-on experience building real-world applications.  
-I have developed systems using React Native, Node.js, MySQL, and Firebase, especially in the field of **attendance tracking, tourism safety, and data protection**.
-
----
-
-## 🛠️ Technical Skills
-
-**Languages:** JavaScript (ES6+), Dart, Python, SQL  
-**Frameworks:** React Native, Express.js, Flutter, .NET WinForms  
-**Databases:** MySQL, Firebase, MongoDB  
-**Tools & Others:** Git, Postman, Figma, Firebase Auth, REST API
-
----
-
-## 🚀 Projects
-
-### 🔹 [Smart Attendance App](https://github.com/khanhtoan123/attendance-app)
-> A mobile application for remote check-in/out using GPS and Firebase Auth.
-
-- Built with React Native, Node.js, MySQL
-- Implements real-time attendance records and KPI calculation
-- Secure login via Firebase Authentication
-
-### 🔹 [Safe Saigon](https://github.com/khanhtoan123/safe-saigon)
-> Tourism safety app to protect tourists and reduce scams in HCMC.
-
-- Utilized data from actual tourist feedback and reports
-- UI/UX designed using Figma
-- API built using Express and integrated with Firebase
-
-### 🔹 [ElGamal Encryption Tool](https://github.com/khanhtoan123/elgamal-crypto)
-> A Python tool to demonstrate public key encryption (for InfoSec course)
-
----
-
-## 📈 GitHub Stats
+<h1 align="center">Nguyễn Khánh Toàn</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khanhtoan123&show_icons=true&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanhtoan123&layout=compact" />
+  📍 HCMC, Vietnam &nbsp;|&nbsp; 💻 Full-stack Developer (React Native | Node.js) <br>
+  🎓 HUTECH University – Information Systems &nbsp;|&nbsp; 🔍 Open to Internship & Fresher Roles
+</p>
+
+---
+
+## 👨‍💼 Summary
+
+A passionate developer with strong experience in building real-world mobile and web applications.  
+Specialized in full-stack development using **React Native**, **Node.js**, **MySQL**, and **Firebase**.  
+Interested in problem-solving, user-centric design, and building scalable systems.
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend**: React Native, Flutter, HTML, CSS  
+**Backend**: Node.js (Express), Python (basic), C# (.NET WinForms)  
+**Database**: MySQL, Firebase, MongoDB  
+**Others**: Git, Postman, REST API, Firebase Auth, VS Code, Figma
+
+---
+
+## 📌 Key Projects
+
+### ✅ [Smart Attendance App](https://github.com/khanhtoan123/attendance-app)
+> A mobile check-in/out app using GPS + Firebase Auth.
+
+- Built full-stack app using React Native, Node.js, and MySQL
+- Integrated Firebase Authentication for secure login
+- Realtime attendance & KPI dashboard
+
+### ✅ [Safe Saigon](https://github.com/khanhtoan123/safe-saigon)
+> A tourist protection app for Ho Chi Minh City.
+
+- Designed to help prevent scams and guide tourists
+- Built backend API with Express.js, frontend UI with Figma
+- Collected and visualized user safety reports
+
+### ✅ [ElGamal Encryption Tool](https://github.com/khanhtoan123/elgamal-crypto)
+> A basic Python-based encryption program.
+
+- Demonstrates public key encryption using ElGamal algorithm
+- Used for final assignment in Information Security course
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khanhtoan123&show_icons=true&theme=graywhite" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanhtoan123&layout=compact&theme=graywhite" height="150"/>
 </p>
 
 ---
@@ -55,8 +60,9 @@ I have developed systems using React Native, Node.js, MySQL, and Firebase, espec
 ## 📫 Contact
 
 - 📧 Email: toan.dev@example.com  
-- 🔗 LinkedIn: [linkedin.com/in/khanhtoan123](https://linkedin.com/in/khanhtoan123)
+- 💼 LinkedIn: [linkedin.com/in/khanhtoan123](https://linkedin.com/in/khanhtoan123)  
+- 🖥️ Portfolio (if any): [khanhtoan.dev](https://khanhtoan.dev)
 
 ---
 
-> “First, solve the problem. Then, write the code.” – John Johnson
+> “Simplicity is the soul of efficiency.” – Austin Freeman
