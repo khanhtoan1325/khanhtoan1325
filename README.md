@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Nguyễn Khánh Toàn</h1>
+<h1 align="center">Hi there 👋, I'm Nguyen Khanh Toan</h1>
 
 ---
 
